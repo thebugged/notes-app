@@ -129,7 +129,6 @@ STATIC_URL = '/static/'
 
 STATICFILES_DIRS = [
 
-    BASE_DIR / 'staticfiles',
     BASE_DIR / 'frontend/build/static'
 ]
 
