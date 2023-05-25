@@ -131,7 +131,9 @@ STATICFILES_DIRS = [
     BASE_DIR / 'frontend/build/static'
 ]
 
-TEMPLATE_DIRS = [ BASE_DIR / 'frontend/public' ]
+STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+
+
 
 
 # Default primary key field type
