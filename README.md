@@ -6,11 +6,14 @@
 This is a simple notes app built with React and Django.
 
 
+
 ## Installation
+
 
 ### Prerequisites
 - Python (3.x)
 - Node.js
+
 
 ### Setting up the Environment
 
@@ -40,6 +43,7 @@ pip install -r requirements.txt
 npm install
 ```
 
+
 #### macOS/Linux
 1. Clone the repository:
 ```shell
@@ -67,6 +71,7 @@ npm install
 ```
 
 
+
 ## Running the App
 Once you have set up the environment, you can run the app by executing the following command:
 ```shell
@@ -74,6 +79,7 @@ Once you have set up the environment, you can run the app by executing the follo
 ```
 
 The app will be accessible at http://127.0.0.1:8000/.
+
 
 
 ## Credits
