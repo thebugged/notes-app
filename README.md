@@ -1,5 +1,5 @@
 
-[![Notes App](screenshot.png)]
+![Notes App](screenshot.png)
 
 
 ## 
