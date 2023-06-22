@@ -83,7 +83,3 @@ The app will be accessible at http://127.0.0.1:8000/.
 
 
 
-## Credits
-In appreciation of [Dennis Ivy's](https://github.com/divanov11) guidance throughout the development of this app. If you're interested in web development, I highly recommend checking out his tutorials on [YouTube](https://www.youtube.com/@DennisIvy). 
-
-
