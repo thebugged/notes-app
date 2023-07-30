@@ -41,7 +41,12 @@ pip install -r requirements.txt
 
 5. Install the Node.js dependencies:
 ```shell
+cd frontend
 npm install
+```
+or 
+```shell
+npm install --force
 ```
 
 
@@ -68,6 +73,7 @@ pip install -r requirements.txt
 
 5. Install the Node.js dependencies:
 ```shell
+cd frontend
 npm install
 ```
 
