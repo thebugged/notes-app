@@ -1,6 +1,14 @@
 
 ![Notes App](screenshot.png)
 
+<details>
+  <summary>Images</summary>
+  <p float="left">
+    <img src="images/1.png" width="30%">
+    <img src="images/2.png" width="30%">
+    <img src="images/3.png" width="30%">
+  </p>
+</details>
 
 ## 
 # Notes App
