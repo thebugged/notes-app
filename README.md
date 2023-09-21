@@ -1,14 +1,5 @@
 
-![Notes App](screenshot.png)
-
-<details>
-  <summary>Images</summary>
-  <p float="left">
-    <img src="images/1.png" width="30%">
-    <img src="images/2.png" width="30%">
-    <img src="images/3.png" width="30%">
-  </p>
-</details>
+![notes](https://github.com/thebugged/notes-app/assets/74977495/751b334c-cbfc-4461-b4ff-00b55da86e43)
 
 ## 
 # Notes App
