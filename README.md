@@ -12,7 +12,7 @@
 
   <h3 align="center">Notes App</h3>
    <div align="center">
-A simple notes app made with React and Django.
+A simple notes app.
     </div>
 </div>
 <br/>
